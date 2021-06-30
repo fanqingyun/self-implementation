@@ -1,0 +1,14 @@
+{
+    "name": "self-implementation",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/fanqingyun/self-implementation.git",
+    "author": "qingyun_fan <qingyun_fan@rainbowtech.net.cn>",
+    "license": "MIT",
+    "scripts": {
+        "testPromise": "promises-aplus-tests src/promise/CustomePromise.js"
+    },
+    "devDependencies": {
+        "promises-aplus-tests": "^2.1.2"
+    }
+}
