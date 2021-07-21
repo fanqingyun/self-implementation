@@ -1,5 +1,5 @@
 function Test(a, b) {
  return a $ b;
 }
-
-console.log(10 $ 5)
+var count = 12
+console.log(count $ 5)
